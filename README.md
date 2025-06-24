@@ -1,0 +1,2 @@
+# Informatikeksamen
+Eksamen i informatik
