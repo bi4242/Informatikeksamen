@@ -16,7 +16,7 @@ Det overstående billede er vores select screen, hvor man har markeret en svarmu
 Herover ses vores side, der bliver vist efter man har svaret på spørgsmålet. Vi andvender 2 Gestaltlove. Den første er loven om **lighed**. da de to fremhævede svar ligner hinanden. Den anden er loven om **figur-grund**, da når man ændre gennemsigtigheden på de andre svar, fanger man næmmere de 2 relevante med øjnene.
 
 ![image](https://github.com/user-attachments/assets/144c3b6c-d34f-44e8-8558-20218b52a7de)
-Til sidst har vi en opsumerende resultatskærm. hvor vi bruger Gestaltloven om **figur-grund**, da vi har data om "Antal rigtige svar på første forsøg". grupperede i en traktformet figur.
+Til sidst har vi en opsumerende resultatskærm. hvor vi bruger Gestaltloven om **fælles region**, da vi har data om "Antal rigtige svar på første forsøg". grupperede i en traktformet figur.
 
 
 
