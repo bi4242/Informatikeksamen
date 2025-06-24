@@ -8,3 +8,9 @@
 6. Overvejelser om brugeroplevelsen og planlægning af en eller flere brugertests (fx Think Aloud).
 7. Systemet skal være et digitalt materiale, som f.eks en interaktiv quiz.
 8. Systemet skal introducere reglerne på en visuel og engagerende måde.
+## Vores systemkrav
+1. Vi skal implementere en algoritme, for at udvælge spørgsmål.
+2. Vi skal lave en multible choice quiz.
+3. Der skal være en interaktiv GUI.
+4. Hvis man svarer forkert på et spørgsmål, får man givet svaret, så man senere kan svare rigtigt.
+5. Adaptiv quiz.
