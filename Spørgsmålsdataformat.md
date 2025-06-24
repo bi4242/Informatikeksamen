@@ -54,7 +54,7 @@ Et eksempel på et meget lille spørgsmålssæt:
       ]
     }
 
-Grammatikken er:
+Syntaksen er:
 
     QuestionSet = {
       subject: string,
