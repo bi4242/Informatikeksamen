@@ -5,4 +5,5 @@ Programmets tilstand består af:
 * En pulje af de spørgsmål, der brugeren ikke har svaret rigtigt på endnu.
 
 En flowchart over programmet:
+
 ![image](https://github.com/user-attachments/assets/93e67599-463b-4a5f-9ccf-78179feef042)
