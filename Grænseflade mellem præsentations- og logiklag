@@ -1,0 +1,13 @@
+Brugeren interagerer ikke direkte med quiz-systemet. Brugerens handlinger kommunikeres gennem præsentationslaget, GUI'en, og quiz-systemets informationer vises også i GUI'en.
+
+Brugeren kan gennem GUI'en sende følgende information til quiz-systemet (når tilgængelige):
+* Tryk på "Start quiz"-knap
+* Tryk på "Hjem"-knap
+* Tryk på svarmulighed
+* Tryk på pil - videre
+* Tryk på "Se resultat"-knap
+
+Quiz-systemet ændrer GUI'en på følgende måder:
+* Vise et nyt spørgsmål
+* Vise svaret på et spørgsmål
+* Vise quizzens resultater
