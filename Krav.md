@@ -6,4 +6,5 @@
 4. Vi skal lave en eller flere low- og/eller high-fi prototyper
 5. Vi skal lave en udvalgt proof-of-concept-funktion, implementeret i fx p5.js eller Arduino, hvis relevant. Brug ikke tid på at implementere hele systemet.
 6. Overvejelser om brugeroplevelsen og planlægning af en eller flere brugertests (fx Think Aloud).
-7. Vores system skal være et digitalt materiale, som f.eks en app eller hjemmeside.
+7. Systemet skal være et digitalt materiale, som f.eks en interaktiv quiz.
+8. Systemet skal introducere reglerne på en visuel og engagerende måde.
