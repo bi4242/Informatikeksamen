@@ -1,0 +1,245 @@
+{
+  "subject": "skolens_regler",
+  "questions": [
+    {
+      "question": "Hvornår må du bruge din mobiltelefon i timerne?",
+      "answers": [
+        {"answer": "Når læreren siger det er okay", "correct": true},
+        {"answer": "Hele tiden", "correct": false},
+        {"answer": "Aldrig", "correct": false},
+        {"answer": "Kun i frikvarteret", "correct": false}
+      ],
+      "tags": ["IT"]
+    },
+    {
+      "question": "Hvordan viser du respekt for dine klassekammerater?",
+      "answers": [
+        {"answer": "Ved at lytte når de taler", "correct": true},
+        {"answer": "Ved at afbryde dem", "correct": false},
+        {"answer": "Ved at grine af dem", "correct": false},
+        {"answer": "Ved at ignorere dem", "correct": false}
+      ],
+      "tags": ["respekt"]
+    },
+    {
+      "question": "Hvad skal du gøre med dit affald på skolen?",
+      "answers": [
+        {"answer": "Smide det i skraldespanden", "correct": true},
+        {"answer": "Smide det på gulvet", "correct": false},
+        {"answer": "Gemme det i tasken", "correct": false},
+        {"answer": "Efterlade det på bordet", "correct": false}
+      ],
+      "tags": ["miljø"]
+    },
+    {
+      "question": "Hvordan skal du behandle skolens materialer?",
+      "answers": [
+        {"answer": "Passe godt på dem", "correct": true},
+        {"answer": "Tegne i dem", "correct": false},
+        {"answer": "Smide dem væk", "correct": false},
+        {"answer": "Bytte dem med venner", "correct": false}
+      ],
+      "tags": ["materialer"]
+    },
+    {
+      "question": "Hvad er en god måde at opføre sig på i frikvarteret?",
+      "answers": [
+        {"answer": "Lege uden at genere andre", "correct": true},
+        {"answer": "Skubbe til de små elever", "correct": false},
+        {"answer": "Kaste affald rundt", "correct": false},
+        {"answer": "Råbe af lærerne", "correct": false}
+      ],
+      "tags": ["opførsel"]
+    },
+    {
+      "question": "Hvem skal du vise respekt for på skolen?",
+      "answers": [
+        {"answer": "Alle", "correct": true},
+        {"answer": "Kun venner", "correct": false},
+        {"answer": "Kun lærerne", "correct": false},
+        {"answer": "Kun de store elever", "correct": false}
+      ],
+      "tags": ["respekt"]
+    },
+    {
+      "question": "Hvad gør du hvis du ødelægger noget ved et uheld?",
+      "answers": [
+        {"answer": "Fortæller det til en voksen", "correct": true},
+        {"answer": "Gemmer det", "correct": false},
+        {"answer": "Skyder skylden på en anden", "correct": false},
+        {"answer": "Lader som ingenting", "correct": false}
+      ],
+      "tags": ["materialer", "opførsel"]
+    },
+    {
+      "question": "Må du tage billeder af andre på skolen uden at spørge?",
+      "answers": [
+        {"answer": "Nej, du skal spørge først", "correct": true},
+        {"answer": "Ja, altid", "correct": false},
+        {"answer": "Kun i frikvarteret", "correct": false},
+        {"answer": "Kun til sjov", "correct": false}
+      ],
+      "tags": ["IT", "respekt"]
+    },
+    {
+      "question": "Hvad er en vigtig regel for brug af skolens computere?",
+      "answers": [
+        {"answer": "Brug dem til skolearbejde", "correct": true},
+        {"answer": "Spil spil hele tiden", "correct": false},
+        {"answer": "Chat med venner", "correct": false},
+        {"answer": "Se film", "correct": false}
+      ],
+      "tags": ["IT"]
+    },
+    {
+      "question": "Hvordan kan du hjælpe med at holde skolens område pænt?",
+      "answers": [
+        {"answer": "Smide affald i skraldespanden", "correct": true},
+        {"answer": "Sparke til skraldespanden", "correct": false},
+        {"answer": "Smide papir på jorden", "correct": false},
+        {"answer": "Efterlade madpakker overalt", "correct": false}
+      ],
+      "tags": ["miljø"]
+    },
+    {
+      "question": "Hvad er god opførsel i klasselokalet?",
+      "answers": [
+        {"answer": "Lytte og følge med", "correct": true},
+        {"answer": "Råbe og afbryde", "correct": false},
+        {"answer": "Smide med ting", "correct": false},
+        {"answer": "Skrive på bordene", "correct": false}
+      ],
+      "tags": ["opførsel"]
+    },
+    {
+      "question": "Hvordan viser du respekt for skolens omgivelser?",
+      "answers": [
+        {"answer": "Lader være med at ødelægge ting", "correct": true},
+        {"answer": "Tegner på væggene", "correct": false},
+        {"answer": "Kaster sten på ruder", "correct": false},
+        {"answer": "Sparker til dørene", "correct": false}
+      ],
+      "tags": ["miljø", "respekt"]
+    },
+    {
+      "question": "Hvordan skal man aflevere lånt sportsudstyr?",
+      "answers": [
+        {"answer": "Tilbage i god stand", "correct": true},
+        {"answer": "Smide det på jorden", "correct": false},
+        {"answer": "Beholde det", "correct": false},
+        {"answer": "Give det til en ven", "correct": false}
+      ],
+      "tags": ["materialer"]
+    },
+    {
+      "question": "Må du dele billeder af andre uden tilladelse?",
+      "answers": [
+        {"answer": "Nej", "correct": true},
+        {"answer": "Ja, hvis det er en ven", "correct": false},
+        {"answer": "Kun på Snapchat", "correct": false},
+        {"answer": "Kun i en klassechat", "correct": false}
+      ],
+      "tags": ["IT"]
+    },
+    {
+      "question": "Hvad er vigtigt at gøre i gruppearbejde?",
+      "answers": [
+        {"answer": "Lytte til de andre", "correct": true},
+        {"answer": "Bestemme alt selv", "correct": false},
+        {"answer": "Ignorere de andres idéer", "correct": false},
+        {"answer": "Gøre noget helt andet", "correct": false}
+      ],
+      "tags": ["respekt"]
+    },
+    {
+      "question": "Hvordan kan du være med til at skabe et godt miljø?",
+      "answers": [
+        {"answer": "Passe på skolen og omgivelserne", "correct": true},
+        {"answer": "Ødelægge ting", "correct": false},
+        {"answer": "Smide affald på jorden", "correct": false},
+        {"answer": "Skrive på vægge", "correct": false}
+      ],
+      "tags": ["miljø"]
+    },
+    {
+      "question": "Hvordan skal man bruge skolens bøger?",
+      "answers": [
+        {"answer": "Læse i dem og passe på dem", "correct": true},
+        {"answer": "Tegne i dem", "correct": false},
+        {"answer": "Rive sider ud", "correct": false},
+        {"answer": "Bytte dem", "correct": false}
+      ],
+      "tags": ["materialer"]
+    },
+    {
+      "question": "Hvordan er god opførsel på gangen?",
+      "answers": [
+        {"answer": "Gå stille og roligt", "correct": true},
+        {"answer": "Løbe og råbe", "correct": false},
+        {"answer": "Skubbe til andre", "correct": false},
+        {"answer": "Slå på skabene", "correct": false}
+      ],
+      "tags": ["opførsel"]
+    },
+    {
+      "question": "Hvordan bruger du IT på en god måde?",
+      "answers": [
+        {"answer": "Til at lære og lave opgaver", "correct": true},
+        {"answer": "Til at drille andre", "correct": false},
+        {"answer": "Til at spille hele tiden", "correct": false},
+        {"answer": "Til at tage hemmelige billeder", "correct": false}
+      ],
+      "tags": ["IT"]
+    },
+    {
+      "question": "Hvordan viser du respekt i idrætstimen?",
+      "answers": [
+        {"answer": "Overholder reglerne og hjælper andre", "correct": true},
+        {"answer": "Snyder", "correct": false},
+        {"answer": "Driller de andre", "correct": false},
+        {"answer": "Skælder ud", "correct": false}
+      ],
+      "tags": ["respekt", "opførsel"]
+    },
+    {
+      "question": "Hvordan hjælper du med at holde klassen pæn?",
+      "answers": [
+        {"answer": "Rydder op efter dig selv", "correct": true},
+        {"answer": "Smider papir på gulvet", "correct": false},
+        {"answer": "Skriver på bordene", "correct": false},
+        {"answer": "Efterlader madpakker", "correct": false}
+      ],
+      "tags": ["miljø"]
+    },
+    {
+      "question": "Hvad er god opførsel over for vikarer?",
+      "answers": [
+        {"answer": "Behandle dem som lærere", "correct": true},
+        {"answer": "Ignorere dem", "correct": false},
+        {"answer": "Lave sjov med dem", "correct": false},
+        {"answer": "Råbe ad dem", "correct": false}
+      ],
+      "tags": ["opførsel"]
+    },
+    {
+      "question": "Hvordan viser man respekt for skolens regler?",
+      "answers": [
+        {"answer": "Ved at følge dem", "correct": true},
+        {"answer": "Ved at bryde dem", "correct": false},
+        {"answer": "Ved at lave egne regler", "correct": false},
+        {"answer": "Ved at ignorere dem", "correct": false}
+      ],
+      "tags": ["respekt"]
+    },
+    {
+      "question": "Hvordan skal man bruge lånte ting fra skolen?",
+      "answers": [
+        {"answer": "Bruges som aftalt og afleveres", "correct": true},
+        {"answer": "Gives til andre", "correct": false},
+        {"answer": "Beholdes", "correct": false},
+        {"answer": "Ødelægges", "correct": false}
+      ],
+      "tags": ["materialer"]
+    }
+  ]
+}
