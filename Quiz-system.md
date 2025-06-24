@@ -4,6 +4,9 @@ Programmets tilstand består af:
 * En vægt associeret med hvert tag.
 * En pulje af de spørgsmål, der brugeren ikke har svaret rigtigt på endnu.
 
+Når brugeren svarer rigtigt, ændres vægten af hvert associeret tag med 0,8x.
+Når brugeren svarer forkert, ændres vægten af hvert associeret tag med 1,25x.
+
 En flowchart over programmet:
 
 ![image](https://github.com/user-attachments/assets/93e67599-463b-4a5f-9ccf-78179feef042)
