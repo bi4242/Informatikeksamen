@@ -2,14 +2,14 @@
   "subject": "Skolens regler",
   "questions": [
     {
-      "question": "Hvornår må du bruge din mobiltelefon i timerne?",
+      "question": "Hvad skal man gøre, hvis din kammerat spilder syre i øjnene?",
       "answers": [
-        {"answer": "Når læreren siger det er okay", "correct": true},
-        {"answer": "Hele tiden", "correct": false},
-        {"answer": "Aldrig", "correct": false},
-        {"answer": "Kun i frikvarteret", "correct": false}
+        {"answer": "Skylle kammeratens øjne og ringe til lægen", "correct": true},
+        {"answer": "Hælde base i deres øjne", "correct": false},
+        {"answer": "Drikke resten af syren", "correct": false},
+        {"answer": "Grine af kammeraten", "correct": false}
       ],
-      "tags": ["IT"]
+      "tags": ["opførsel"]
     },
     {
       "question": "Hvordan viser du respekt for dine klassekammerater?",
