@@ -1,5 +1,13 @@
 # Prototypes
 ## Low-Fidelity
+![Screenshot 2025-06-24 195923](https://github.com/user-attachments/assets/38ca6559-86de-4166-be9e-e04b46f3c55c)
+
+
+![Screenshot 2025-06-24 195940](https://github.com/user-attachments/assets/628eca5a-d093-4206-8174-a3dd7ade26f2)
+
+
+![image](https://github.com/user-attachments/assets/44cfaa74-1894-4b3f-9db5-0fd20b3c02b1)
+
 
 ## High-Fidelity
 ### Herunder ses en high-fidelity model af vores quizprogram, hvor vi anvender gestaltlovene og Nielsens 10 bud, til at designe en intuitiv måde at interagere med vores system på.
