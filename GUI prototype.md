@@ -1,14 +1,12 @@
 # Prototypes
 ## Low-Fidelity
+### Herunder ser vi vores low-fidelity prototype designs. Her laver vi en grov mockup af vores idéer til hvordan hjemmesiden skal se ud. Vi brugte Elias lillebror til at bedømme hvilke steder de interaktive knapper skulle sidde, for at det fungerede intuitivt.
 ![Screenshot 2025-06-24 195923](https://github.com/user-attachments/assets/38ca6559-86de-4166-be9e-e04b46f3c55c)
-
-
+Herover er et billede af vores spørgsmålsside, hvor brugeren kan vælge et svar.
 ![Screenshot 2025-06-24 195940](https://github.com/user-attachments/assets/628eca5a-d093-4206-8174-a3dd7ade26f2)
-
-
-![image](https://github.com/user-attachments/assets/44cfaa74-1894-4b3f-9db5-0fd20b3c02b1)
-
-
+Herover ser vi hvordan man kunne deigne en resultat side, efter man har svaret.
+![Screenshot 2025-06-24 195923](https://github.com/user-attachments/assets/6897ffc6-4e73-4701-a5bd-323dc2bb1faf)
+Herover ser vi den side der bliver vist efter man har svaret korrekt på alle spørgsmål. Den blev redesignet senere med gestaltlovende i mende.
 ## High-Fidelity
 ### Herunder ses en high-fidelity model af vores quizprogram, hvor vi anvender gestaltlovene og Nielsens 10 bud, til at designe en intuitiv måde at interagere med vores system på.
 #### Nielsens 10 bud
@@ -18,7 +16,6 @@ Så har vi **error prevention**, da vi tvinger brugeren til at bekræfte deres s
 Herudover bruger vi **recognition rather than recall**, da vi tager inspiration fra det kendte quizprogram Kahoot, og at vi bruger klassiske ikoner som et hus for "hjem", og en pil for "videre".
 Så bruger vi **flexibility and efficiency of use**, da "avancerede brugerer", kan bruger tastaturgenveje, mens nybegyndere kan bryge den grafiske brugergrænseflade.
 Vi tager også inspiration fra **aesthetic and minimalist design**, da vi ikke har alt muligt ligegyldigt ramasjang på skærmen.
-
 ![image](https://github.com/user-attachments/assets/b3869205-69c7-4b46-9833-e3ca67f219f0)
 Herover ses vores spørgsmålsside.
 #### Gestaltlovene
@@ -31,7 +28,7 @@ Det overstående billede er vores select screen, hvor man har markeret en svarmu
 #### Gestaltlovene
 Vi anvender ingen nye love her.
 ![image](https://github.com/user-attachments/assets/ddf0a037-efa4-4ca6-a842-e9d432e6f076)
-Herover ses vores side, der bliver vist efter man har svaret på spørgsmålet.
+Herover ses vores side, der bliver vist efter man har svaret på spørgsmålet. Som man kan se, har vi valgt at designe det anderledes fra vores low-fidelity version, da vi stødte ind i problemer, hvor brugeren kunne blive forvirret grundet dårlig farvevalg.
 #### Gestaltlovene
 Vi andvender 2 Gestaltlove. Den første er loven om **lighed**. da de to fremhævede svar ligner hinanden. Den anden er loven om **figur-grund**, da når man ændre gennemsigtigheden på de andre svar, fanger man næmmere de 2 relevante med øjnene.
 ![image](https://github.com/user-attachments/assets/144c3b6c-d34f-44e8-8558-20218b52a7de)
