@@ -7,3 +7,9 @@
 5. Vi skal lave en udvalgt proof-of-concept-funktion, implementeret i fx p5.js eller Arduino, hvis relevant. Brug ikke tid på at implementere hele systemet.
 6. Overvejelser om brugeroplevelsen og planlægning af en eller flere brugertests (fx Think Aloud).
 7. Vores system skal være et digitalt materiale, som f.eks en app eller hjemmeside.
+## Vores systemkrav
+1. Vi skal implementere en algoritme, for at udvælge spørgsmål.
+2. Vi skal lave en multible choice quiz.
+3. Der skal være en interaktiv GUI.
+4. Hvis man svarer forkert på et spørgsmål, får man givet svaret, så man senere kan svare rigtigt.
+5. Adaptiv quiz.
