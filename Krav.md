@@ -9,8 +9,12 @@
 7. Systemet skal være et digitalt materiale, som f.eks en interaktiv quiz.
 8. Systemet skal introducere reglerne på en visuel og engagerende måde.
 ## Vores systemkrav
-1. Der skal implementeres en algoritme, der at udvælger spørgsmål.
-2. Der skal laves en multible choice-quiz.
-3. Der skal være en interaktiv GUI.
-4. Hvis man svarer forkert på et spørgsmål, får man givet svaret, så man senere kan svare rigtigt.
-5. Quizzen skal vær adaptiv.
+1. Der skal implementeres en algoritme, der udvælger spørgsmål.
+### GUI
+### Quiz-system
+1. Der skal laves en multible choice-quiz.
+2. Der skal være en interaktiv GUI.
+3. Hvis man svarer forkert på et spørgsmål, får man givet svaret, så man senere kan svare rigtigt.
+4. Quizzen skal være adaptiv.
+### Spørgsmålsdata
+1. Dataenes format er som beskrevet i Spørgeskemadata.md.
